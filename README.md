@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+Dima Spektor | Israel | <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png"><img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo" style="max-width:100%;"></a> https://www.linkedin.com/in/dima-spektor | My Portfolio: https://dimaspektor.com
+
 ### About Me 
 A web developer & software engineer strongly experienced in client and server side technologies. I aspire to become an innovative, creative and analytical, simply a person that acquires new knowledge, had experience and working with challenging tasks and challenging problems that I successfully solved.
 
 ### My Resume
 I am a B.Sc software engineer with over 1 year of experience in web development, Developed web apps and web sites from scratch.
-Experienced in a variety of fields, problem solver, thorough, creative, with fast learning and implementation capabilities. 
+Experienced in a variety of fields, problem solver, thorough, creative, with fast learning and implementation capabilities.<br /> 
 Passion for create web apps and web sites.
 
 ### TECHNOLOGIES:
