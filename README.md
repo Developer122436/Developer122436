@@ -10,7 +10,7 @@ I am a B.Sc software engineer with over 1 year of experience in web development,
 Experienced in a variety of fields, problem solver, thorough, creative, with fast learning and implementation capabilities.<br /> 
 Passion for create web apps and web sites.
 
-### TECHNOLOGIES:
+### Technologies
 Client-side: JavaScript ES6, HTML5, CSS3, Sass, React-Hooks, TypeScript, Mobx, Bootstrap.
 
 Server-side: Web API, .Net Core, C#, PHP, C++, Java.
