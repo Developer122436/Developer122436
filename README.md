@@ -34,8 +34,6 @@ Tools: VS Code, Postman, VS, Photoshop, WordPress.
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="64" height="64" alt="sql" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="64" height="64" alt="git" style="max-width:100%;"></a>
 
-You are the <a href="https://github.com/Developer122436"><img src="https://camo.githubusercontent.com/886de0f19bfc74d15b6cab1409b615f37b783891/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6d7568726166662e76697369746f722d6261646765" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Developer122436.visitor-badge" style="max-width:100%;"></a> since i added this profile 
-
 Please have a look and share your thoughts.
 
 Thank you <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
